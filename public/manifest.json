@@ -1,0 +1,17 @@
+{
+    "name": "WeatherNow",
+    "short_name": "weatherNow",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color":"black",
+    "theme_color":"white",
+    "orientation":"portrait-primary",
+    "icons": [
+        {
+            "src": "./images/icon.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ]
+}
